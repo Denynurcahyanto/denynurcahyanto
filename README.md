@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Deny</h1>
+<h1 align="center">Hi 👋, I'm Deny Nurcahyanto</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=haaasib&label=Profile%20views&color=red&style=flat" alt="haaasib" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=denynurcahyanto&label=Profile%20views&color=red&style=flat" alt="denynurcahyanto" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haaasib" alt="haaasib" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?denynurcahyanto=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=haaasib&show_icons=true&locale=en" alt="haaasib" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=denynurcahyanto&show_icons=true&locale=en" alt="denynurcahyanto" /></p>
