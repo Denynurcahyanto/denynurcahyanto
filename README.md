@@ -12,4 +12,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=denynurcahyanto&show_icons=true&locale=en" alt="denynurcahyanto" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=denynurcahyanto&" alt="denynurcahyanto" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Denynurcahyanto&" alt="Denynurcahyanto" /></p>
