@@ -37,16 +37,16 @@
 ### 🛠 Languages & Tools
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" height="25"/>
-<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" height="25"/>
-<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" height="25"/>
-<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" height="25"/>
-<img src="https://img.shields.io/badge/Lua-282C34?logo=lua&logoColor=000080" height="25"/>
-<img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=777BB4" height="25"/>
-<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" height="25"/>
-<img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" height="25"/>
-<img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" height="25"/>
+<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" title="HTML5" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/Lua-282C34?logo=lua&logoColor=000080" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=777BB4" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=white" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" height="25"/> &nbsp;
 
 ---
 
