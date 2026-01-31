@@ -1,15 +1,58 @@
 <h1 align="center">Hi 👋, I'm Deny Nurcahyanto</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=denynurcahyanto&label=Profile%20views&color=0e75b6&style=plastic" alt="denynurcahyanto" /> </p>
+<h3 align="center">Developer | FiveM Enthusiast | Web & Automation Builder</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=denynurcahyanto" alt="denynurcahyanto" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/denyy.xt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="denyy.xt" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=denynurcahyanto&label=Profile%20views&color=0e75b6&style=plastic" alt="denynurcahyanto" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=denynurcahyanto&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="denynurcahyanto" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=denynurcahyanto&show_icons=true&theme=tokyonight&locale=en" alt="denynurcahyanto" /></p>
+### 👨‍💻 About Me
+- 🔭 Currently working on **FiveM Scripts & Web Projects**
+- ⚙️ Love building **automation, bots, and game systems**
+- 🌱 Always learning **backend, API, and system optimization**
+- 🎮 Content creator for **FiveM Roleplay**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=denynurcahyanto&theme=highcontrast" alt="denynurcahyanto" /></p>
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=denynurcahyanto&theme=darkhub&no-frame=true&row=1&column=7" />
+  </a>
+</p>
+
+---
+
+### 🤝 Connect with Me
+<p align="left">
+  <a href="https://instagram.com/denyy.xt" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,lua,mysql,git,github,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=denynurcahyanto&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=denynurcahyanto&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=denynurcahyanto&theme=highcontrast" />
+</p>
+
+---
+
+⭐ *Don't forget to follow and star my repositories if you find them useful!*
