@@ -16,7 +16,6 @@
 - 🤖 Bot & Automation Builder
 - 🌐 Web Developer
 - 🎥 FiveM Roleplay Content Creator
-- 📧 Contact: **denyy.xt@gmail.com** *(ganti kalau mau)*
 
 ❤️ **I'm passionate about:**
 - 🎮 FiveM Development & Game Systems
