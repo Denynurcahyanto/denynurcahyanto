@@ -17,10 +17,9 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=denynurcahyanto&theme=darkhub&no-frame=true&row=1&column=7" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=denynurcahyanto&theme=onedark&no-frame=true&row=1&column=7" />
 </p>
+
 
 ---
 
